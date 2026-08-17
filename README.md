@@ -51,10 +51,8 @@ QR Forge was created as a simple, fast, and visually appealing tool for generati
 
 screenshot of the application:
 
-```md
 ![QR Forge Screenshot](./Capture.PNG)
 
-```
 
 ## 👩‍💻 Author
 
