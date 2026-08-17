@@ -52,7 +52,7 @@ QR Forge was created as a simple, fast, and visually appealing tool for generati
 screenshot of the application:
 
 ```md
-<img width="654" height="623" alt="image" src="https://github.com/user-attachments/assets/7ef28b97-e224-480a-a670-beac95d2ad2c" />
+![QR Forge Screenshot](./Capture.PNG)
 
 ```
 
